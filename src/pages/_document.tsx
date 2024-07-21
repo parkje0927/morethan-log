@@ -6,12 +6,17 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
-          <link rel="icon" href="/favicon.ico" />
+          <link rel="icon" href="/junghyun-favicon.ico" />
           <link
+            rel="apple-touch-icon"
+            sizes="180x180"
+            href="/junghyun-apple-icon.png"
+          ></link>
+          {/* <link
             rel="apple-touch-icon"
             sizes="192x192"
             href="/apple-touch-icon.png"
-          ></link>
+          ></link> */}
           <link
             rel="alternate"
             type="application/rss+xml"
