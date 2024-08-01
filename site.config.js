@@ -4,7 +4,7 @@ const CONFIG = {
     name: "박정현",
     image: "/junghyun-notion-avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "backend developer",
-    bio: "I'm JungHyun Park, backend developer. I’m currently working on ESTsoft.",
+    bio: "I'm JungHyun Park, backend developer. <br> I’m currently working on ESTsoft.",
     email: "parkje09270@gmail.com",
     linkedin: "jjungdev",
     github: "parkje0927",
